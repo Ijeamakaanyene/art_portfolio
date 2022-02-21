@@ -1,0 +1,27 @@
+baseurl: https://example.org/
+title: Ijeamaka Anyene
+theme: hugo-creative-portfolio-theme
+languageCode: en-us
+disqusShortname: ''
+googleAnalytics: ''
+params:
+  copyright: '&copy;2022 Ijeamaka Anyene'
+  description: Ijeamaka's Art Portfolio
+  email: you@yoursite.com
+  navlinks:
+    - home: yes
+      name: Home
+      url: portfolio/
+    - name: About
+      url: about/
+    - name: Get in touch
+      url: contact/
+  sidebarAbout:
+    - Data art and generative art. 
+  social:
+    email: ijeamaka.anyene@gmail.com
+    github: https://github.com/Ijeamakaanyene
+    instagram: https://www.instagram.com/ijeamaka.art/
+    linkedin: https://www.linkedin.com/in/ijeamaka-anyene-303a16a0/
+    twitter: https://twitter.com/ijeamaka_a
+  style: green
