@@ -14,10 +14,12 @@ params:
       url: portfolio/
     - name: About
       url: about/
-    - name: Get in touch
+    - name: Talks and Features
+      url: talks_features/
+    - name: Contact
       url: contact/
   sidebarAbout:
-    - Data art and generative art. 
+    - Data analyst and data artist
   social:
     email: ijeamaka.anyene@gmail.com
     github: https://github.com/Ijeamakaanyene
