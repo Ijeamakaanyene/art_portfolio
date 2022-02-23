@@ -2,12 +2,11 @@
 date: "2021-09-03"
 draft: false
 image: img/portfolio/fruitchet/blueberry_012.png
-showonlyimage: true
+showonlyimage: false
 title: Fruitchet
 weight: 4
 ---
-
-Truchet tiles and fruit are layered together to make unique and playful fruit patterns. 
+Truchet tiles and fruit are layered together to make unique and playful fruit patterns.
 
 <!--more-->
 

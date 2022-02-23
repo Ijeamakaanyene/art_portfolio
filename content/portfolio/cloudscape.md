@@ -2,7 +2,7 @@
 date: "2021-04-25"
 draft: false
 image: img/portfolio/cloudscape.png
-showonlyimage: true
+showonlyimage: false
 title: Cloudscape
 weight: 0
 ---

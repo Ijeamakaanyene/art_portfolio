@@ -2,12 +2,12 @@
 date: "2021-04-01"
 draft: false
 image: img/portfolio/tidytuesday/2021_04_hbcus.png
-showonlyimage: true
+showonlyimage: false
 title: TidyTuesday
 weight: 1
 ---
 
-My contributions to the #R4DS Weekly Challenge.
+My data visualization contributions to the #R4DS Weekly Challenge.
 <!--more-->
 
 Here are a few selections of visualizations I created. All visualizations are created solely using R.
