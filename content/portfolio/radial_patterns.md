@@ -7,7 +7,7 @@ title: Radial Patterns in ggplot2
 weight: 2
 ---
 
-A love letter to the polar coordinate system masquerading as a #rstats zine.
+A love letter to the polar coordinate system masquerading as a #rstats zine, *art*. 
 
 <!--more-->
 

@@ -16,8 +16,6 @@ params:
       url: about/
     - name: Talks and Features
       url: talks_features/
-    - name: Contact
-      url: contact/
   sidebarAbout:
     - Data analyst and data artist
   social:

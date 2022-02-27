@@ -8,14 +8,17 @@ Are you interested in having my speak for your group? I am currently on hiatus, 
 
 #### General
 **Spice up your standard charts**  
-Toronto Data Workshop, August 2021
+Toronto Data Workshop, August 2021  
+[Recording](https://www.youtube.com/watch?v=LlVf8foXUmM); [Source Code](https://github.com/Ijeamakaanyene/spice_up_your_charts)
 
 **aRt gallery: virtual art gallery**  
-useR! 2021 the R Conference, July 2021
+useR! 2021 the R Conference, July 2021  
+[useR Program Information](https://user2021.r-project.org/program/social/)
 
 **aRt + ggplot: exploring radial visualizations**  
 R-Ladies Johannesburg & Tunis, Jan 2021  
-R-Ladies Santa Barbara, April 2021
+R-Ladies Santa Barbara, April 2021  
+[Recording](https://www.youtube.com/watch?v=h0i6KAahLY8); [Source Code](https://github.com/Ijeamakaanyene/aRt_ggplot)
 
 
 #### Academic

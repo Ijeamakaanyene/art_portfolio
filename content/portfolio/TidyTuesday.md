@@ -7,7 +7,7 @@ title: TidyTuesday
 weight: 1
 ---
 
-My data visualization contributions to the #R4DS Weekly Challenge.
+Contributions to the #R4DS Weekly Challenge, *data visualization*. 
 <!--more-->
 
 Here are a few selections of visualizations I created. All visualizations are created solely using R.
