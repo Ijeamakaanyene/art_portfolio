@@ -1,4 +1,4 @@
-baseurl: https://ijeamaka-art.netlify.app/
+baseurl: https://ijeamaka.art/
 title: Ijeamaka Anyene
 theme: hugo-creative-portfolio-theme
 languageCode: en-us
@@ -7,7 +7,7 @@ googleAnalytics: ''
 params:
   copyright: '&copy;2022 Ijeamaka Anyene'
   description: Ijeamaka's Art Portfolio
-  email: you@yoursite.com
+  email: ijeamaka.anyene@gmail.com
   navlinks:
     - home: yes
       name: Home
@@ -18,6 +18,7 @@ params:
       url: talks_features/
   sidebarAbout:
     - Data analyst and data artist
+    An amalgation of my professional and personal work
   social:
     email: ijeamaka.anyene@gmail.com
     github: https://github.com/Ijeamakaanyene
