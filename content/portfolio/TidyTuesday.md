@@ -10,24 +10,31 @@ weight: 1
 Contributions to the #R4DS Weekly Challenge, *data visualization*. 
 <!--more-->
 
-Here are a few selections of visualizations I created. All visualizations are created solely using R.
+Here are a few selections of visualizations I created. All visualizations are created solely using R. See all visualizations [here](https://github.com/Ijeamakaanyene/tidytuesday).
 
-*Contribution: 2021-04*
-![](/img/portfolio/tidytuesday/2021_04_hbcus.png)
 
-*Contribution: 2021-03*
-![](/img/portfolio/tidytuesday/2021_03_plastic_pollution.png)
+{{< rawhtml >}}
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 masonry-item">
+       <p><a href="/img/portfolio/tidytuesday/2021_04_hbcus.png"><img width = 100% src="/img/portfolio/tidytuesday/2021_04_hbcus.png"></a></p>
+    </div>
+    <div class = "col-xs-12 col-sm-6 col-md-6 col-lg-6 masonry-item">
+      <p><a href="/img/portfolio/tidytuesday/2020-18_trails.png"><img width = 100% src="/img/portfolio/tidytuesday/2020-18_trails.png"></a></p>
+    </div>
+    <div class= "col-xs-12 col-sm-6 col-md-6 col-lg-6 masonry-item">
+      <p><a href="/img/portfolio/tidytuesday/2021_03_plastic_pollution.png"><img width = 100% src="/img/portfolio/tidytuesday/2021_03_plastic_pollution.png"></a></p>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 masonry-item">
+      <p><a href="/img/portfolio/tidytuesday/2021_02_tate.png"><img width = 100% src="/img/portfolio/tidytuesday/2021_02_tate.png"></a></p>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 masonry-item">
+      <p><a href="/img/portfolio/tidytuesday/2020-16_avatar.png"><img width = 100% src="/img/portfolio/tidytuesday/2020-16_avatar.png"></a></p>
+    </div>
+  </div>
+</div>
 
-*Contribution: 2021-02*
-![](/img/portfolio/tidytuesday/2021_02_tate.png)
+{{< /rawhtml >}}
 
-*Contribution: 2020-19*
-![](/img/portfolio/tidytuesday/2020-19_toronto_shelters.png)
-
-*Contribution: 2020-18*
-![](/img/portfolio/tidytuesday/2020-18_trails.png)
-
-*Contribution: 2020-16*
-![](/img/portfolio/tidytuesday/2020-16_avatar.png)
 
 

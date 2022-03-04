@@ -17,22 +17,22 @@ This series was created in R using primarily ggplot2 and ggforce packages for vi
 {{< rawhtml >}}
 <div class="container-fluid">
   <div class="row">
-    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <p><a href="/img/portfolio/fruitchet/blueberry_012.png"><img width = 100% src="/img/portfolio/fruitchet/blueberry_012.png"></a></p>
     </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <p><a href="/img/portfolio/fruitchet/dragonfruit_005.png"><img width = 100% src="/img/portfolio/fruitchet/dragonfruit_005.png"></a></p>
     </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <p><a href="/img/portfolio/fruitchet/lemon_020.png"><img width = 100% src="/img/portfolio/fruitchet/lemon_020.png"></a></p>
     </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <p><a href="/img/portfolio/fruitchet/limes_020.png"><img width = 100% src="/img/portfolio/fruitchet/limes_020.png"></a></p>
     </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <p><a href="/img/portfolio/fruitchet/orange_02_007.png"><img width = 100% src="/img/portfolio/fruitchet/orange_02_007.png"></a></p>
     </div>
-    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 p-2">
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <p><a href="/img/portfolio/fruitchet/watermelon_009.png"><img width = 100% src="/img/portfolio/fruitchet/watermelon_009.png"></a></p>
     </div>
   </div>
