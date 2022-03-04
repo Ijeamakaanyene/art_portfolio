@@ -4,3 +4,6 @@
 .Ruserdata
 .DS_Store
 .Rprofile
+Thumbs.db
+/public/
+/resources/
