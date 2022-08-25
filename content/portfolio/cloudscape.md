@@ -7,7 +7,7 @@ title: Cloudscape
 weight: 0
 ---
 
-A shiny app of a short looping video of a cloudscape, *art*.
+A shiny app of a short looping video of a cloudscape, 2021.
 <!--more-->
 
 

@@ -7,7 +7,7 @@ title: Managing the COVID-19 Pandemic Course Visualization
 weight: 0
 ---
 
-An infectious disease natural history primer for the public, *data visualization*.
+An infectious disease natural history primer for the public, 2020.
 <!--more-->
 
 U.C. Berkeley School of Public Health has an online, self-paced course to provide the public a comprehensive understanding of the COVID-19 pandemic.  

@@ -7,6 +7,10 @@ type: "page"
 Are you interested in having my speak for your group? I am currently on hiatus, but will be available for talks and presentations in the Fall of 2022. 
 
 #### General
+**Anatomy of Generative Art**  
+Salt Lake City R Users Group, August 2022  
+Recording; [Presentation](https://github.com/Ijeamakaanyene/anatomy_of_generative_art/blob/main/Anatomy%20of%20Generative%20Art.pdf)
+
 **Spice up your standard charts**  
 Toronto Data Workshop, August 2021  
 [Recording](https://www.youtube.com/watch?v=LlVf8foXUmM); [Source Code](https://github.com/Ijeamakaanyene/spice_up_your_charts)
